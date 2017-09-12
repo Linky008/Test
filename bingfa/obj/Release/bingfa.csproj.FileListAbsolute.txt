@@ -1,0 +1,13 @@
+E:\Ebook\练习\深入理解c#\test\bingfa\bin\Release\bingfa.exe.config
+E:\Ebook\练习\深入理解c#\test\bingfa\bin\Release\bingfa.exe
+E:\Ebook\练习\深入理解c#\test\bingfa\bin\Release\bingfa.pdb
+E:\Ebook\练习\深入理解c#\test\bingfa\obj\Release\bingfa.csprojResolveAssemblyReference.cache
+E:\Ebook\练习\深入理解c#\test\bingfa\obj\Release\bingfa.exe
+E:\Ebook\练习\深入理解c#\test\bingfa\obj\Release\bingfa.pdb
+E:\Project\Mine\Test\bingfa\bin\Release\bingfa.exe.config
+E:\Project\Mine\Test\bingfa\bin\Release\bingfa.exe
+E:\Project\Mine\Test\bingfa\bin\Release\bingfa.pdb
+E:\Project\Mine\Test\bingfa\obj\Release\bingfa.csprojResolveAssemblyReference.cache
+E:\Project\Mine\Test\bingfa\obj\Release\bingfa.csproj.CoreCompileInputs.cache
+E:\Project\Mine\Test\bingfa\obj\Release\bingfa.exe
+E:\Project\Mine\Test\bingfa\obj\Release\bingfa.pdb

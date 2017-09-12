@@ -1,0 +1,7 @@
+E:\Ebook\练习\深入理解c#\test\bingfa\bin\Debug\bingfa.exe.config
+E:\Ebook\练习\深入理解c#\test\bingfa\bin\Debug\bingfa.exe
+E:\Ebook\练习\深入理解c#\test\bingfa\bin\Debug\bingfa.pdb
+E:\Ebook\练习\深入理解c#\test\bingfa\obj\Debug\bingfa.csprojResolveAssemblyReference.cache
+E:\Ebook\练习\深入理解c#\test\bingfa\obj\Debug\bingfa.exe
+E:\Ebook\练习\深入理解c#\test\bingfa\obj\Debug\bingfa.pdb
+E:\Ebook\练习\深入理解c#\test\bingfa\obj\Debug\bingfa.csproj.CoreCompileInputs.cache
