@@ -1,0 +1,9 @@
+E:\Project\Mine\Test\WinFormTest\bin\Release\WinFormTest.exe.config
+E:\Project\Mine\Test\WinFormTest\bin\Release\WinFormTest.exe
+E:\Project\Mine\Test\WinFormTest\bin\Release\WinFormTest.pdb
+E:\Project\Mine\Test\WinFormTest\obj\Release\WinFormTest.csprojResolveAssemblyReference.cache
+E:\Project\Mine\Test\WinFormTest\obj\Release\WinFormTest.Properties.Resources.resources
+E:\Project\Mine\Test\WinFormTest\obj\Release\WinFormTest.csproj.GenerateResource.Cache
+E:\Project\Mine\Test\WinFormTest\obj\Release\WinFormTest.csproj.CoreCompileInputs.cache
+E:\Project\Mine\Test\WinFormTest\obj\Release\WinFormTest.exe
+E:\Project\Mine\Test\WinFormTest\obj\Release\WinFormTest.pdb
