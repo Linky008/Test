@@ -1,0 +1,7 @@
+E:\Ebook\练习\深入理解c#\test\SuanFa\bin\Debug\SuanFa.exe.config
+E:\Ebook\练习\深入理解c#\test\SuanFa\bin\Debug\SuanFa.exe
+E:\Ebook\练习\深入理解c#\test\SuanFa\bin\Debug\SuanFa.pdb
+E:\Ebook\练习\深入理解c#\test\SuanFa\obj\Debug\SuanFa.csprojResolveAssemblyReference.cache
+E:\Ebook\练习\深入理解c#\test\SuanFa\obj\Debug\SuanFa.exe
+E:\Ebook\练习\深入理解c#\test\SuanFa\obj\Debug\SuanFa.pdb
+E:\Ebook\练习\深入理解c#\test\SuanFa\obj\Debug\SuanFa.csproj.CoreCompileInputs.cache

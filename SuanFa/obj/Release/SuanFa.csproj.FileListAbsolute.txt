@@ -1,0 +1,7 @@
+E:\Project\Mine\Test\SuanFa\bin\Release\SuanFa.exe.config
+E:\Project\Mine\Test\SuanFa\bin\Release\SuanFa.exe
+E:\Project\Mine\Test\SuanFa\bin\Release\SuanFa.pdb
+E:\Project\Mine\Test\SuanFa\obj\Release\SuanFa.csprojResolveAssemblyReference.cache
+E:\Project\Mine\Test\SuanFa\obj\Release\SuanFa.csproj.CoreCompileInputs.cache
+E:\Project\Mine\Test\SuanFa\obj\Release\SuanFa.exe
+E:\Project\Mine\Test\SuanFa\obj\Release\SuanFa.pdb
