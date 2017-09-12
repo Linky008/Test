@@ -1,0 +1,7 @@
+E:\Ebook\练习\深入理解c#\test\RegEX\bin\Debug\RegEX.exe.config
+E:\Ebook\练习\深入理解c#\test\RegEX\bin\Debug\RegEX.exe
+E:\Ebook\练习\深入理解c#\test\RegEX\bin\Debug\RegEX.pdb
+E:\Ebook\练习\深入理解c#\test\RegEX\obj\Debug\RegEX.csprojResolveAssemblyReference.cache
+E:\Ebook\练习\深入理解c#\test\RegEX\obj\Debug\RegEX.csproj.CoreCompileInputs.cache
+E:\Ebook\练习\深入理解c#\test\RegEX\obj\Debug\RegEX.exe
+E:\Ebook\练习\深入理解c#\test\RegEX\obj\Debug\RegEX.pdb

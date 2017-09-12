@@ -1,0 +1,7 @@
+E:\Project\Mine\Test\RegEX\bin\Release\RegEX.exe.config
+E:\Project\Mine\Test\RegEX\bin\Release\RegEX.exe
+E:\Project\Mine\Test\RegEX\bin\Release\RegEX.pdb
+E:\Project\Mine\Test\RegEX\obj\Release\RegEX.csprojResolveAssemblyReference.cache
+E:\Project\Mine\Test\RegEX\obj\Release\RegEX.csproj.CoreCompileInputs.cache
+E:\Project\Mine\Test\RegEX\obj\Release\RegEX.exe
+E:\Project\Mine\Test\RegEX\obj\Release\RegEX.pdb
