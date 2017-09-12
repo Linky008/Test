@@ -1,0 +1,7 @@
+E:\Ebook\练习\深入理解c#\test\DepthInCSharp\bin\Debug\DepthInCSharp.exe.config
+E:\Ebook\练习\深入理解c#\test\DepthInCSharp\bin\Debug\DepthInCSharp.exe
+E:\Ebook\练习\深入理解c#\test\DepthInCSharp\bin\Debug\DepthInCSharp.pdb
+E:\Ebook\练习\深入理解c#\test\DepthInCSharp\obj\Debug\DepthInCSharp.exe
+E:\Ebook\练习\深入理解c#\test\DepthInCSharp\obj\Debug\DepthInCSharp.pdb
+E:\Ebook\练习\深入理解c#\test\DepthInCSharp\obj\Debug\DepthInCSharp.csprojResolveAssemblyReference.cache
+E:\Ebook\练习\深入理解c#\test\DepthInCSharp\obj\Debug\DepthInCSharp.csproj.CoreCompileInputs.cache
