@@ -11,3 +11,9 @@ E:\Project\Mine\Test\bingfa\obj\Release\bingfa.csprojResolveAssemblyReference.ca
 E:\Project\Mine\Test\bingfa\obj\Release\bingfa.csproj.CoreCompileInputs.cache
 E:\Project\Mine\Test\bingfa\obj\Release\bingfa.exe
 E:\Project\Mine\Test\bingfa\obj\Release\bingfa.pdb
+F:\Test\bingfa\bin\Release\bingfa.exe.config
+F:\Test\bingfa\bin\Release\bingfa.exe
+F:\Test\bingfa\bin\Release\bingfa.pdb
+F:\Test\bingfa\obj\Release\bingfa.csproj.CoreCompileInputs.cache
+F:\Test\bingfa\obj\Release\bingfa.exe
+F:\Test\bingfa\obj\Release\bingfa.pdb

@@ -1,0 +1,7 @@
+D:\Documents\Visual Studio 2017\Projects\Test\MSMQServer\obj\Debug\MSMQServer.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\Test\MSMQServer\obj\Debug\MSMQServer.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Test\MSMQServer\bin\Debug\MSMQServer.exe.config
+D:\Documents\Visual Studio 2017\Projects\Test\MSMQServer\bin\Debug\MSMQServer.exe
+D:\Documents\Visual Studio 2017\Projects\Test\MSMQServer\bin\Debug\MSMQServer.pdb
+D:\Documents\Visual Studio 2017\Projects\Test\MSMQServer\obj\Debug\MSMQServer.exe
+D:\Documents\Visual Studio 2017\Projects\Test\MSMQServer\obj\Debug\MSMQServer.pdb

@@ -11,3 +11,9 @@ E:\Project\Mine\Test\DepthInCSharp\obj\Release\DepthInCSharp.csprojResolveAssemb
 E:\Project\Mine\Test\DepthInCSharp\obj\Release\DepthInCSharp.csproj.CoreCompileInputs.cache
 E:\Project\Mine\Test\DepthInCSharp\obj\Release\DepthInCSharp.exe
 E:\Project\Mine\Test\DepthInCSharp\obj\Release\DepthInCSharp.pdb
+F:\Test\DepthInCSharp\bin\Release\DepthInCSharp.exe.config
+F:\Test\DepthInCSharp\bin\Release\DepthInCSharp.exe
+F:\Test\DepthInCSharp\bin\Release\DepthInCSharp.pdb
+F:\Test\DepthInCSharp\obj\Release\DepthInCSharp.csproj.CoreCompileInputs.cache
+F:\Test\DepthInCSharp\obj\Release\DepthInCSharp.exe
+F:\Test\DepthInCSharp\obj\Release\DepthInCSharp.pdb

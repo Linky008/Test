@@ -5,3 +5,9 @@ E:\Project\Mine\Test\SuanFa\obj\Release\SuanFa.csprojResolveAssemblyReference.ca
 E:\Project\Mine\Test\SuanFa\obj\Release\SuanFa.csproj.CoreCompileInputs.cache
 E:\Project\Mine\Test\SuanFa\obj\Release\SuanFa.exe
 E:\Project\Mine\Test\SuanFa\obj\Release\SuanFa.pdb
+F:\Test\SuanFa\bin\Release\SuanFa.exe.config
+F:\Test\SuanFa\bin\Release\SuanFa.exe
+F:\Test\SuanFa\bin\Release\SuanFa.pdb
+F:\Test\SuanFa\obj\Release\SuanFa.csproj.CoreCompileInputs.cache
+F:\Test\SuanFa\obj\Release\SuanFa.exe
+F:\Test\SuanFa\obj\Release\SuanFa.pdb
