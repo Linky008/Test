@@ -5,3 +5,10 @@ F:\Test\RegEX\obj\Release\Common.csprojResolveAssemblyReference.cache
 F:\Test\RegEX\obj\Release\Common.csproj.CoreCompileInputs.cache
 F:\Test\RegEX\obj\Release\RegEX.exe
 F:\Test\RegEX\obj\Release\RegEX.pdb
+E:\Project\Mine\Test\Common\bin\Release\RegEX.exe.config
+E:\Project\Mine\Test\Common\bin\Release\RegEX.exe
+E:\Project\Mine\Test\Common\bin\Release\RegEX.pdb
+E:\Project\Mine\Test\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+E:\Project\Mine\Test\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+E:\Project\Mine\Test\Common\obj\Release\RegEX.exe
+E:\Project\Mine\Test\Common\obj\Release\RegEX.pdb
