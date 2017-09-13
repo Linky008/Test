@@ -1,0 +1,7 @@
+F:\Test\MSMQClient\bin\Release\MSMQClient.exe.config
+F:\Test\MSMQClient\bin\Release\MSMQClient.exe
+F:\Test\MSMQClient\bin\Release\MSMQClient.pdb
+F:\Test\MSMQClient\obj\Release\MSMQClient.csprojResolveAssemblyReference.cache
+F:\Test\MSMQClient\obj\Release\MSMQClient.csproj.CoreCompileInputs.cache
+F:\Test\MSMQClient\obj\Release\MSMQClient.exe
+F:\Test\MSMQClient\obj\Release\MSMQClient.pdb

@@ -7,3 +7,12 @@ E:\Project\Mine\Test\WinFormTest\obj\Release\WinFormTest.csproj.GenerateResource
 E:\Project\Mine\Test\WinFormTest\obj\Release\WinFormTest.csproj.CoreCompileInputs.cache
 E:\Project\Mine\Test\WinFormTest\obj\Release\WinFormTest.exe
 E:\Project\Mine\Test\WinFormTest\obj\Release\WinFormTest.pdb
+F:\Test\WinFormTest\bin\Release\WinFormTest.exe.config
+F:\Test\WinFormTest\bin\Release\WinFormTest.exe
+F:\Test\WinFormTest\bin\Release\WinFormTest.pdb
+F:\Test\WinFormTest\obj\Release\WinFormTest.csprojResolveAssemblyReference.cache
+F:\Test\WinFormTest\obj\Release\WinFormTest.Properties.Resources.resources
+F:\Test\WinFormTest\obj\Release\WinFormTest.csproj.GenerateResource.Cache
+F:\Test\WinFormTest\obj\Release\WinFormTest.csproj.CoreCompileInputs.cache
+F:\Test\WinFormTest\obj\Release\WinFormTest.exe
+F:\Test\WinFormTest\obj\Release\WinFormTest.pdb
