@@ -5,3 +5,10 @@ F:\Test\MSMQServer\obj\Release\MSMQServer.csprojResolveAssemblyReference.cache
 F:\Test\MSMQServer\obj\Release\MSMQServer.csproj.CoreCompileInputs.cache
 F:\Test\MSMQServer\obj\Release\MSMQServer.exe
 F:\Test\MSMQServer\obj\Release\MSMQServer.pdb
+E:\Project\Mine\Test\MSMQServer\bin\Release\MSMQServer.exe.config
+E:\Project\Mine\Test\MSMQServer\bin\Release\MSMQServer.exe
+E:\Project\Mine\Test\MSMQServer\bin\Release\MSMQServer.pdb
+E:\Project\Mine\Test\MSMQServer\obj\Release\MSMQServer.csprojResolveAssemblyReference.cache
+E:\Project\Mine\Test\MSMQServer\obj\Release\MSMQServer.csproj.CoreCompileInputs.cache
+E:\Project\Mine\Test\MSMQServer\obj\Release\MSMQServer.exe
+E:\Project\Mine\Test\MSMQServer\obj\Release\MSMQServer.pdb
