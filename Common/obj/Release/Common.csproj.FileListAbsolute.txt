@@ -12,3 +12,10 @@ E:\Project\Mine\Test\Common\obj\Release\Common.csprojResolveAssemblyReference.ca
 E:\Project\Mine\Test\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
 E:\Project\Mine\Test\Common\obj\Release\RegEX.exe
 E:\Project\Mine\Test\Common\obj\Release\RegEX.pdb
+F:\Test\Common\bin\Release\RegEX.exe.config
+F:\Test\Common\bin\Release\RegEX.exe
+F:\Test\Common\bin\Release\RegEX.pdb
+F:\Test\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+F:\Test\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+F:\Test\Common\obj\Release\RegEX.exe
+F:\Test\Common\obj\Release\RegEX.pdb

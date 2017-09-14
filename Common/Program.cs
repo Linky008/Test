@@ -15,7 +15,8 @@ namespace Common
             //正则
             RegEX();
 
-            //委托
+            //委托和事件
+            //http://www.cnblogs.com/JimmyZhang/archive/2007/09/23/903360.html
             Delegate();
 
             //
