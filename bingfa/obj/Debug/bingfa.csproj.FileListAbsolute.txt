@@ -5,3 +5,10 @@ E:\Ebook\练习\深入理解c#\test\bingfa\obj\Debug\bingfa.csprojResolveAssembl
 E:\Ebook\练习\深入理解c#\test\bingfa\obj\Debug\bingfa.exe
 E:\Ebook\练习\深入理解c#\test\bingfa\obj\Debug\bingfa.pdb
 E:\Ebook\练习\深入理解c#\test\bingfa\obj\Debug\bingfa.csproj.CoreCompileInputs.cache
+F:\Test\bingfa\bin\Debug\bingfa.exe.config
+F:\Test\bingfa\bin\Debug\bingfa.exe
+F:\Test\bingfa\bin\Debug\bingfa.pdb
+F:\Test\bingfa\obj\Debug\bingfa.csprojResolveAssemblyReference.cache
+F:\Test\bingfa\obj\Debug\bingfa.csproj.CoreCompileInputs.cache
+F:\Test\bingfa\obj\Debug\bingfa.exe
+F:\Test\bingfa\obj\Debug\bingfa.pdb

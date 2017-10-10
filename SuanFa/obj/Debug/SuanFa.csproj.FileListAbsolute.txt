@@ -5,3 +5,10 @@ E:\Ebook\练习\深入理解c#\test\SuanFa\obj\Debug\SuanFa.csprojResolveAssembl
 E:\Ebook\练习\深入理解c#\test\SuanFa\obj\Debug\SuanFa.exe
 E:\Ebook\练习\深入理解c#\test\SuanFa\obj\Debug\SuanFa.pdb
 E:\Ebook\练习\深入理解c#\test\SuanFa\obj\Debug\SuanFa.csproj.CoreCompileInputs.cache
+F:\Test\SuanFa\bin\Debug\SuanFa.exe.config
+F:\Test\SuanFa\bin\Debug\SuanFa.exe
+F:\Test\SuanFa\bin\Debug\SuanFa.pdb
+F:\Test\SuanFa\obj\Debug\SuanFa.csprojResolveAssemblyReference.cache
+F:\Test\SuanFa\obj\Debug\SuanFa.csproj.CoreCompileInputs.cache
+F:\Test\SuanFa\obj\Debug\SuanFa.exe
+F:\Test\SuanFa\obj\Debug\SuanFa.pdb

@@ -1,0 +1,7 @@
+F:\Test\Common\bin\Debug\RegEX.exe.config
+F:\Test\Common\bin\Debug\RegEX.exe
+F:\Test\Common\bin\Debug\RegEX.pdb
+F:\Test\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+F:\Test\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+F:\Test\Common\obj\Debug\RegEX.exe
+F:\Test\Common\obj\Debug\RegEX.pdb

@@ -7,3 +7,12 @@ E:\Ebook\练习\深入理解c#\test\WinFormTest\obj\Debug\WinFormTest.csproj.Gen
 E:\Ebook\练习\深入理解c#\test\WinFormTest\obj\Debug\WinFormTest.exe
 E:\Ebook\练习\深入理解c#\test\WinFormTest\obj\Debug\WinFormTest.pdb
 E:\Ebook\练习\深入理解c#\test\WinFormTest\obj\Debug\WinFormTest.csproj.CoreCompileInputs.cache
+F:\Test\WinFormTest\bin\Debug\WinFormTest.exe.config
+F:\Test\WinFormTest\bin\Debug\WinFormTest.exe
+F:\Test\WinFormTest\bin\Debug\WinFormTest.pdb
+F:\Test\WinFormTest\obj\Debug\WinFormTest.csprojResolveAssemblyReference.cache
+F:\Test\WinFormTest\obj\Debug\WinFormTest.Properties.Resources.resources
+F:\Test\WinFormTest\obj\Debug\WinFormTest.csproj.GenerateResource.Cache
+F:\Test\WinFormTest\obj\Debug\WinFormTest.csproj.CoreCompileInputs.cache
+F:\Test\WinFormTest\obj\Debug\WinFormTest.exe
+F:\Test\WinFormTest\obj\Debug\WinFormTest.pdb
