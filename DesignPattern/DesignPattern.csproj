@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Pattern\DecoratorPattern.cs" />
+    <Compile Include="Pattern\FactoryMethodPattern.cs" />
+    <Compile Include="Pattern\ProxyPattern.cs" />
     <Compile Include="Pattern\SimpleFactory.cs" />
     <Compile Include="Pattern\StrategyPattern.cs" />
     <Compile Include="Program.cs" />
